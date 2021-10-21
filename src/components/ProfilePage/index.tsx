@@ -24,7 +24,7 @@ export function ProfilePage() {
         <h1>Douglas Munaro</h1>
         <h2>@douglass_fm</h2>
         <p>
-          Mais um louco do bando
+          Descrição de perfil
         </p>
         <ul>
           <li>
