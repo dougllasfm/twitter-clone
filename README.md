@@ -1,9 +1,9 @@
-# Calculator
+# Twitter Clone
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/dougllasfm/twitter-clone/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-Calculadora com alternância de temas e operadores simples.
+Clone da interface de uma página do twitter.
 
 ## Layout 
 ![Tela](https://github.com/dougllasfm/twitter-clone/blob/main/src/assets/TelaPrincipal.png)
